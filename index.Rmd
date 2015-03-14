@@ -161,7 +161,8 @@ lang: russian
 
 ### Прочие книжки
 
-(можно купить или найти в чёрном-чёрном Интернете, gen.lib.rus.ec):
+Можно купить или найти в [чёрном](http://gen.lib.rus.ec/)-[чёрном](http://bookzz.org/) Интернете:
+
 * Freedman, Statistical models
 * Seber, Linear Regression Analysis, хорошо изложена матричная сторона дела. Есть перевод первого издания на русский. 
 
