@@ -29,6 +29,10 @@ lang: russian
 
 ## Базовый поток
 
+##### 9 апреля 2015 года
+* задачки на логит-пробит
+* [логит и пробит в R](http://bdemeshev.github.io/r_cycle/cycle_files/03_logit_regression.html)
+
 ##### 12 марта 2015 года
 * метод [главных компонент руками и в R](./2014/sem_files/sem_pca_1_base.html)
 
@@ -139,6 +143,7 @@ lang: russian
 * Farawae, [Practical regression and ANOVA using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) Гетероскедастичность, мультиколлинеарность, метод главных компонент, Ridge regression, ANOVA.
 * Никита Артамонов, [Введение в эконометрику](http://img1.liveinternet.ru/images/attach/c/2//3833/3833271_econometrics.pdf)
 * Кирилл Фурманов, [Сборник задач на личной страничке](http://www.hse.ru/org/persons/503346)
+* Стренг, [Линейная алгебра](http://elibrary.bsu.az/kitablar/1022.pdf), древний, но очень удачный учебник по линейной алгебре
 
 ### Мелочи:
 * Теорема Фриша-Вау: [wikipedia](http://en.wikipedia.org/wiki/Frisch–Waugh–Lovell_theorem), [simple proof](http://mlovell.web.wesleyan.edu/Publications/SPFWLTheorem.pdf), [geometry](http://www.depeco.econo.unlp.edu.ar/doctrab/doc29.pdf)
