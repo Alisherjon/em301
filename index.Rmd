@@ -29,6 +29,14 @@ lang: russian
 
 ## Базовый поток
 
+##### 23 апреля 2015 года
+
+* Отмена занятий --- компьютерное тестирование 3 курса
+
+##### 16 апреля 2015 года
+
+* ROC кривые
+
 ##### 9 апреля 2015 года
 * задачки на логит-пробит
 * [логит и пробит в R](http://bdemeshev.github.io/r_cycle/cycle_files/03_logit_regression.html)
@@ -47,6 +55,17 @@ lang: russian
 
 
 ## Исследовательский поток
+
+
+
+##### 20 апреля 2015
+
+* Алгоритм случайного леса
+
+##### 13 апреля 2015 ???
+
+* Контрольная [по логит и методу главных компонент](https://github.com/bdemeshev/em301/raw/master/2014/kr_05_ml/kr_05_ml.pdf)
+
 
 ##### i-Семинар. 16 февраля 2015
 * Дельта-метод. Логит-модель. Доверительный интервал для склонности $E(y^*_i|x_i)$.
@@ -154,6 +173,7 @@ lang: russian
 * Breheney, [Ridge regression](http://web.as.uky.edu/statistics/users/pbreheny/764-F11/notes/9-1.pdf)
 * Гид по [прогнозированию рядов для чайников](http://people.duke.edu/~rnau/411fcst.htm)
 * Мелкие [ловушки с рядами в R](http://www.stat.pitt.edu/stoffer/tsa3/Rissues.htm)
+* Матричное дифференциирование: [Herman Kamper](http://www.kamperh.com/notes/kamper_matrixcalculus13.pdf), [Thomas P. Minka](http://research.microsoft.com/en-us/um/people/minka/papers/matrix/minka-matrix.pdf)
 
 
 ### Форумы, где спросить совет...
