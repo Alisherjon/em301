@@ -66,6 +66,11 @@ lang: russian
 
 ## Исследовательский поток
 
+##### 25 мая 2015
+
+* кросс-валидация на примере ридж-регрессии
+* [бутстрэп](http://socserv.socsci.mcmaster.ca/jfox/Books/Companion/appendix/Appendix-Bootstrapping.pdf)
+
 ##### 18 мая 2015
 
 * Целевая функция метода опорных векторов
