@@ -188,6 +188,7 @@ lang: russian
 * Никита Артамонов, [Введение в эконометрику](http://img1.liveinternet.ru/images/attach/c/2//3833/3833271_econometrics.pdf)
 * Кирилл Фурманов, [Сборник задач на личной страничке](http://www.hse.ru/org/persons/503346)
 * Стренг, [Линейная алгебра](http://elibrary.bsu.az/kitablar/1022.pdf), древний, но очень удачный учебник по линейной алгебре
+* A. Ian McLeod, Hao Yu, Esam Mahdi, [Time Series Analysis with R](http://www.stats.uwo.ca/faculty/aim/tsar/), замечательный обзор пакетов R по временным рядам с примерами кода. Заодно там рядом по ссылке толстая поваренная книга (777 страниц) по временным рядам.
 
 ### Мелочи:
 * Теорема Фриша-Вау: [wikipedia](http://en.wikipedia.org/wiki/Frisch–Waugh–Lovell_theorem), [simple proof](http://mlovell.web.wesleyan.edu/Publications/SPFWLTheorem.pdf), [geometry](http://www.depeco.econo.unlp.edu.ar/doctrab/doc29.pdf)
