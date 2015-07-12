@@ -200,6 +200,7 @@ lang: russian
 * Гид по [прогнозированию рядов для чайников](http://people.duke.edu/~rnau/411fcst.htm)
 * Мелкие [ловушки с рядами в R](http://www.stat.pitt.edu/stoffer/tsa3/Rissues.htm)
 * Матричное дифференциирование: [Herman Kamper](http://www.kamperh.com/notes/kamper_matrixcalculus13.pdf), [Thomas P. Minka](http://research.microsoft.com/en-us/um/people/minka/papers/matrix/minka-matrix.pdf)
+* Графики временных рядов: [примеры](http://timelyportfolio.github.io/rCharts_time_series/history.html), [пакет dygraphs](https://rstudio.github.io/dygraphs/index.html)
 
 
 ### Форумы, где спросить совет...
