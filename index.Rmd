@@ -30,7 +30,7 @@ lang: russian
 * Контрольная работа 1. [Вспомнить всё!!!](https://github.com/bdemeshev/em301/raw/master/2015/kr_01_recall_all/kr_01_recall_all.pdf) Время --- 1 час.
 
 #### 07 сентября 2015
-* Пример домашнего [задания от Хрюши](...). Можно разархивировать файл, открыть `.Rnw` в R-studio, нажать "compile pdf", должен получиться готовый pdf-файл.
+* Пример домашнего [задания от Хрюши](https://github.com/bdemeshev/em301/raw/master/2015/ht_01_hrusha/ht_01_hrusha.zip). Можно разархивировать файл, открыть `.Rnw` в R-studio, нажать "compile pdf", должен получиться готовый pdf-файл.
 
 
 ## Базовый поток
