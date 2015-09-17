@@ -37,6 +37,9 @@ lang: russian
 * Д.з.: установить [R/Rstudio/Latex](https://github.com/bdemeshev/em301/wiki/R); выслать (и сдать распечатанными) два файла (`.Rnw` и `.pdf`) с пятью фактами о себе и картинкой до 10:40 22 сентября.
 * Пример домашнего [задания от Хрюши](https://github.com/bdemeshev/em301/raw/master/2015/ht_01_hrusha/ht_01_hrusha.zip). Можно разархивировать файл, открыть `.Rnw` в R-studio, нажать "compile pdf", должен получиться готовый pdf-файл.
 
+## Лекции
+
+[Краткое содержание](http://bdemeshev.github.io/em301/log_lectures_2015.html) лекций
 
 ## Базовый поток
 
