@@ -85,7 +85,7 @@ lang: russian
 * Вывод [критерия BIС](http://nscs00.ucmerced.edu/~nkumar4/BhatKumarBIC.pdf)
 * Неплохое объяснения [эффекта возвращения к среднему](http://avva.livejournal.com/2426970.html)
 * Преобразования [Бокса-Кокса, Ю-Джонсона](http://www.ime.usp.br/~abe/lista/pdfm9cJKUmFZp.pdf)
-* История regression fallacy --- Maddala, Intro to econometrics, p. 104
+* История regression fallacy --- Maddala, Intro to econometrics, [p. 104](https://github.com/bdemeshev/em301/raw/master/useful_stuff/Maddala_regression_word.pdf)
 * Breheney, [Ridge regression](http://web.as.uky.edu/statistics/users/pbreheny/764-F11/notes/9-1.pdf)
 * Гид по [прогнозированию рядов для чайников](http://people.duke.edu/~rnau/411fcst.htm)
 * Мелкие [ловушки с рядами в R](http://www.stat.pitt.edu/stoffer/tsa3/Rissues.htm)
