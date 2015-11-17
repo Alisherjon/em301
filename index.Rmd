@@ -25,9 +25,16 @@ lang: russian
 
 ## Логи семинаров (исследовательский поток)
 
+#### Семинар 10. 17 ноября 2015
+
+* Неограниченная и ограниченная модели, F--тест. 
+* Задача 3.27.
+* Проверка гипотезы о влиянии размеров бриллиантов на их цену при фиксированной массе [в R](https://github.com/bdemeshev/em301/raw/master/2015/sem_10_F_test.R).
+* Создание `.Rmd` файлов (сам [`.Rmd`](https://github.com/bdemeshev/em301/raw/master/2015/toy_research.Rmd) и  что получается в [`.pdf`](https://github.com/bdemeshev/em301/raw/master/2015/toy_research.pdf)).
+
 #### Семинар 9. 10 ноября 2015
 
-* Контрольная работа 2.
+* Контрольная работа 2 ([основная](https://github.com/bdemeshev/em301/raw/master/2015/kr_02_regression/kr_02_regression.pdf) и [R](https://github.com/bdemeshev/em301/raw/master/2015/kr_02_regression/kr_02_R_ex.pdf) части).
 
 #### Семинар 8. 03 ноября 2015
 
