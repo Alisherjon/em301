@@ -1,6 +1,6 @@
 ---
 title: "Сезон 2014-2015"
-date: "12 March 2015"
+date: "`r format(Sys.time(), '%d %B %Y')`"
 output: html_document
 lang: russian
 ---
@@ -201,7 +201,7 @@ lang: russian
 * Мелкие [ловушки с рядами в R](http://www.stat.pitt.edu/stoffer/tsa3/Rissues.htm)
 * Матричное дифференциирование: [Herman Kamper](http://www.kamperh.com/notes/kamper_matrixcalculus13.pdf), [Thomas P. Minka](http://research.microsoft.com/en-us/um/people/minka/papers/matrix/minka-matrix.pdf)
 * Графики временных рядов: [примеры](http://timelyportfolio.github.io/rCharts_time_series/history.html), [пакет dygraphs](https://rstudio.github.io/dygraphs/index.html)
-
+* Gelman, [Missing data](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 ### Форумы, где спросить совет...
 * [stats.stackexchange.com](http://stats.stackexchange.com) - по статистике
