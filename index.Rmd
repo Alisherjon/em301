@@ -1,5 +1,6 @@
 ---
 title: "Сезон 2015-2016"
+date: "Дата обновления: `r format(Sys.time(), '%d.%m.%Y')`"
 output: html_document
 lang: russian
 ---
