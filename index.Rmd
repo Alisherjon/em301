@@ -1,6 +1,6 @@
 ---
 title: "Сезон 2015-2016"
-date: "Дата обновления: `r format(Sys.time(), '%d.%m.%Y')`"
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
 output: html_document
 lang: russian
 ---
@@ -25,6 +25,11 @@ lang: russian
 * [Весь используемый софт](https://github.com/bdemeshev/em301/wiki/Software)
 
 ## Логи семинаров (исследовательский поток)
+
+#### [Домашка по RLMS](https://github.com/bdemeshev/em301/raw/master/2015/ht_rlms/ht_rlms_2015.pdf)
+* Сдаётся в печатном виде 28 декабря 2015
+* Обязательно использовать Rnw или Rmd
+
 
 #### Семинар 12. 01 декабря 2015
 
