@@ -145,7 +145,7 @@ lang: russian
 
 
 ### Эконометрика, free books
-* Michael Creel, [Econometric lecture notes](http://econpapers.repec.org/paper/aubautbar/575.03.htm): graduate level
+* Michael Creel, [Econometric lecture notes](http://econpapers.repec.org/paper/aubautbar/575.03.htm): graduate level и [github repository](https://github.com/mcreel/Econometrics)
 * Bruce Hansen, [Econometrics](http://www.ssc.wisc.edu/~bhansen/econometrics/): graduate level
 * John Stachurski, [First course on econometric theory](http://johnstachurski.net/_downloads/et.pdf): graduate level (?)
 * Breheny, [Applied Statistical Modeling for Medicine and Public Health](http://web.as.uky.edu/statistics/users/pbreheny/764-F11/index.html) Замечательно изложены методы "за пределами" простой регрессии с примерами на R.
