@@ -167,6 +167,7 @@ lang: russian
 * Стренг, [Линейная алгебра](http://elibrary.bsu.az/kitablar/1022.pdf), древний, но очень удачный учебник по линейной алгебре
 * A. Ian McLeod, Hao Yu, Esam Mahdi, [Time Series Analysis with R](http://www.stats.uwo.ca/faculty/aim/tsar/), замечательный обзор пакетов R по временным рядам с примерами кода. Заодно там рядом по ссылке толстая поваренная книга (777 страниц) по временным рядам.
 * Страничка Ruey Tsay [с его курсами по временным рядам с R](http://faculty.chicagobooth.edu/ruey.tsay/teaching/) и названиями его книжек
+* Kevin Sheppard, [Financial Econometrics](https://www.kevinsheppard.com/MFE). Хорошо изложен GMM, VaR. Есть многомерная волатильность.
 
 ### Мелочи:
 * Теорема Фриша-Вау: [wikipedia](http://en.wikipedia.org/wiki/Frisch–Waugh–Lovell_theorem), [simple proof](http://mlovell.web.wesleyan.edu/Publications/SPFWLTheorem.pdf), [geometry](http://www.depeco.econo.unlp.edu.ar/doctrab/doc29.pdf)
