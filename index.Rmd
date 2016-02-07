@@ -26,6 +26,13 @@ lang: russian
 
 ## Логи семинаров (исследовательский поток)
 
+#### Семинар 18. 04 февраля 2016
+
+* предельные эффекты в логит модели
+* симуляции в `shiny` для логит-модели: [ui.R](https://github.com/bdemeshev/em301/raw/master/2015/winnie_shiny/ui.R) и [server.R](https://github.com/bdemeshev/em301/raw/master/2015/winnie_shiny/server.R)
+
+
+
 #### Семинар 17. 28 января 2016
 
 * Логит и пробит модели. 
