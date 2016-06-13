@@ -23,6 +23,12 @@ lang: russian
 
 ## Логи семинаров (исследовательский поток)
 
+#### Семинар 31. 09 июня 2016
+
+* Случайное блуждание
+* ACF и PACF по данным с [sophist.hse.ru](http://sophist.hse.ru/hse/nindex.html) ([в R](https://github.com/bdemeshev/em301/raw/master/2015/sem_31_sophisthse.R))
+
+
 #### Семинар 30. 02 июня 2016
 
 * Большой Устный Зачёт 16 июня (список тем можно смотреть по прошлому году).
